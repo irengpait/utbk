@@ -1,6 +1,8 @@
 <script>
   export let url = "";
-  import PG from "./PG.svelte";
+  import Major from "./Major.svelte";
+  import University from "./University.svelte";
+  import Disclaimer from "./Disclaimer.svelte";
   import { Router, Link, Route } from "svelte-routing";
 
 
@@ -44,24 +46,18 @@
   <main>
     <h1>UTBK SBMPTN 2019 - RECAP</h1>
     <span class="menu">
-      <Link to="/passinggrade">Jurusan</Link>
+      <Link to="/jurusan">Jurusan</Link>
+      |      
+	  <Link to="/kampus">Kampus</Link>
       |
-      <Link to="/Jurusan">Jurusan Favorit Anak IPA</Link>
-      |
-	  <Link to="/Jurusan">Kampus Favorit Anak IPS</Link>
-      |
-	  <Link to="/Jurusan">Sebaran Nilai</Link>
-      |
-      <Link to="/BOW">Disclaimer</Link>
+      <Link to="/disclaimer">Disclaimer</Link>
     </span>
 
     <div class="content">
-      <Route path="/passinggrade" component={PG}>
-        <PG />
-      </Route>
-      <Route path="/" component={PG}>
-        <PG />
-      </Route>
+      <Route path="/jurusan" component={Major}/>
+      <Route path="/" component={Major}/>
+      <Route path="/kampus" component={University}/>
+      <Route path="/disclaimer" component={Disclaimer}/>
     </div>
   </main>
 </Router>

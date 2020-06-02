@@ -10,6 +10,7 @@
         { title: "Kode Prodi", field: "id_major", headerFilter:true },
         { title: "Program Studi", field: "major_name", headerFilter:true },
         { title: "Perguruan Tinggi", field: "university_name" , headerFilter:true},
+        { title: "Rumpun", field: "type" , headerFilter:"select", headerFilterParams:{values:{"science":"science", "humanities":"humanities", "":""}}},
         { title: "Peminat", field: "applicants", headerFilter:"number", headerFilterPlaceholder:"at least...", headerFilterFunc:">="},
         { title: "Kapasitas", field: "capacity", headerFilter:"number", headerFilterPlaceholder:"at least...", headerFilterFunc:">="},
         { title: "Skor Terendah", field: "lowest_score" , headerFilter:"number", headerFilterPlaceholder:"at least...", headerFilterFunc:">="},
