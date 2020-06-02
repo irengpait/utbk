@@ -1,5 +1,4 @@
 <script>
-  export let name;
   export let url = "";
   import PG from "./PG.svelte";
   import { Router, Link, Route } from "svelte-routing";
