@@ -10,6 +10,8 @@
 
 .content li{
     margin-bottom: 10px;
+    margin-left: 30%;
+    margin-right: 30%;
 }
 </style>
 
