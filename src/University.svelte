@@ -19,6 +19,7 @@
       ],
       pagination: "local",
       layout:"fitColumns",
+      responsiveLayout:"hide",
       paginationSize: 25,      
       movableColumns: true
     });
