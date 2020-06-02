@@ -12,7 +12,7 @@
   main {
     text-align: center;
     padding: 1em;
-    max-width: 240px;
+    max-width: 90%;
     margin: 0 auto;
   }
 
@@ -35,9 +35,9 @@
     margin-top: 50px;
   }
 
-  @media (min-width: 640px) {
+  @media (min-width: 768px) {
     main {
-      max-width: none;
+     max-width: 95%;
     }
   }
 </style>

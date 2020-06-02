@@ -2,28 +2,24 @@
   .content {
     text-align: left;
     font-size: large;
+    margin-left: 30%;
+    margin-right: 30%;
   }
 
   .content h2 {
     text-align: center;
   }
 
-  @media (max-width: 640px) {
+  @media (max-width: 768px) {
     .content {
       margin-left: 2%;
       margin-right: 2%;
     }
   }
 
-  @media (min-width: 640px) {
-    .content {
-      margin-left: 30%;
-      margin-right: 30%;
-    }
-  }
-
   .content li {
     margin-bottom: 10px;
+    text-align: justify;
   }
 
   a {
