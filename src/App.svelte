@@ -42,13 +42,15 @@
 
 <Router {url}>
   <main>
-    <h1>UTBK SBMPTN - Data Analytic</h1>
+    <h1>UTBK SBMPTN 2019 - RECAP</h1>
     <span class="menu">
-      <Link to="/passinggrade">Data Passing Grade</Link>
+      <Link to="/passinggrade">Jurusan</Link>
       |
-      <Link to="/Jurusan">Jurusan Favorit</Link>
+      <Link to="/Jurusan">Jurusan Favorit Anak IPA</Link>
       |
-	  <Link to="/Jurusan">Kampus Favorit</Link>
+	  <Link to="/Jurusan">Kampus Favorit Anak IPS</Link>
+      |
+	  <Link to="/Jurusan">Sebaran Nilai</Link>
       |
       <Link to="/BOW">Disclaimer</Link>
     </span>
