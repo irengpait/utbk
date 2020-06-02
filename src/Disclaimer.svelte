@@ -1,7 +1,7 @@
 <style>
 .content{
     text-align: left;
-    font-size: larger;
+    font-size: large;
 }
 
 .content h2{
