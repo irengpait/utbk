@@ -13,13 +13,19 @@
     margin-left: 30%;
     margin-right: 30%;
 }
+
+a {
+    font-weight: bold;
+    color: #ff3e00;
+}
+
 </style>
 
 <div class="content">
   <h2>Disclaimer</h2>
   <ol>
     <li>
-      Data diambil dari kaggle mengenai Indonesia College Examination 2019 <a href="https://www.kaggle.com/ekojsalim/indonesia-college-entrance-examination-utbk-2019">Di sini</a>. Ada sekitar 147ribu sampel (dari total skor 1,1 juta) dan data ini tidak menunjukkan seluruh set data 1,1 juta karena dikumpulkan dari sumber pihak ketiga (dengan mungkin beberapa data tidak valid berserakan). Sehingga info yang disajikan tidak dapat disebut mewakili keseluruhan keterjadian
+      Data diambil dari kaggle mengenai Indonesia College Examination 2019 <a href="https://www.kaggle.com/ekojsalim/indonesia-college-entrance-examination-utbk-2019">di sini</a>. Ada sekitar 147ribu sampel (dari total skor 1,1 juta) dan data ini tidak menunjukkan seluruh set data 1,1 juta karena dikumpulkan dari sumber pihak ketiga (dengan mungkin beberapa data tidak valid berserakan). Sehingga info yang disajikan tidak dapat disebut mewakili keseluruhan keterjadian
     </li>
     <li>
       Pengolahan data sepenuhnya dilakukan dalam rangka edukasi pemanfaatan data science dalam mengolah data, baik dari tahapan penyiapan data hingga penyajian informasi. Oleh karena itu, jangan menjadikan informasi ini sebagai dasar pengambilan keputusan apapun. Tetap gunakan informasi pada website <a href="https://ltmpt.ac.id/">LTMPT</a> sebagai rujukan resmi. 
