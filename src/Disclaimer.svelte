@@ -17,19 +17,13 @@
   <h2>Disclaimer</h2>
   <ol>
     <li>
-      Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+      Data diambil dari kaggle mengenai Indonesia College Examination 2019 <a href="https://www.kaggle.com/ekojsalim/indonesia-college-entrance-examination-utbk-2019">Di sini</a>. Ada sekitar 147ribu sampel (dari total skor 1,1 juta) dan data ini tidak menunjukkan seluruh set data 1,1 juta karena dikumpulkan dari sumber pihak ketiga (dengan mungkin beberapa data tidak valid berserakan). Sehingga info yang disajikan tidak dapat disebut mewakili keseluruhan keterjadian
     </li>
     <li>
-      Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+      Pengolahan data sepenuhnya dilakukan dalam rangka edukasi pemanfaatan data science dalam mengolah data, baik dari tahapan penyiapan data hingga penyajian informasi. Oleh karena itu, jangan menjadikan informasi ini sebagai dasar pengambilan keputusan apapun. Tetap gunakan informasi pada website <a href="https://ltmpt.ac.id/">LTMPT</a> sebagai rujukan resmi. 
     </li>
     <li>
-      Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
-    </li>
-    <li>
-      Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
-    </li>
-    <li>
-      Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+      Passing grade dihitung dari nilai terendah peserta yang diterima di jurusan sesuai kuota (asumsi 20% dari kapasitas). Apakah peserta diterima atau tidak ditentukan dengan cara merangking 20% nilai rata-rata tertinggi. Semakin tinggi passing grade, semakin tinggi nilai yang dibutuhkan untuk pelamar agar lolos di jurusan tersebut. Sementara itu, acceptance ratio dihitung dari persentase pelamar yang diterima (20% dari kapasitas) dibagi dengan jumlah pelamar. Semakin kecil nilainya, semakin kecil peluang untuk diterima, begitu juga sebaliknya.
     </li>
   </ol>
 </div>
