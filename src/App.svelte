@@ -32,7 +32,7 @@
   }
 
   .content {
-    margin-top: 50px;
+    margin-top: 30px;
   }
 
   @media (min-width: 768px) {
